@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$user = "root"; 
-$pass = "";     
+$user = "ojokerro_chale"; 
+$pass = "chaleya0319";     
 $db   = "toko_hp";
 
 try {
